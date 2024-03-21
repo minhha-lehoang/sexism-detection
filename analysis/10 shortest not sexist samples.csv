@@ -1,0 +1,11 @@
+rewire_id,text,label_sexist,label_category,label_vector,split,text_len
+sexism2022_english-5421,Zits,not sexist,none,none,train,4
+sexism2022_english-3897,Lazy.,not sexist,none,none,train,5
+sexism2022_english-10530,eddie,not sexist,none,none,test,5
+sexism2022_english-13021,woman?,not sexist,none,none,train,6
+sexism2022_english-8596,wabbits,not sexist,none,none,train,7
+sexism2022_english-8790,Ask her,not sexist,none,none,test,7
+sexism2022_english-11802,Fuck...,not sexist,none,none,dev,7
+sexism2022_english-3849,titties,not sexist,none,none,test,7
+sexism2022_english-15229,ma niqqa,not sexist,none,none,test,8
+sexism2022_english-4949,So dumb!,not sexist,none,none,train,8

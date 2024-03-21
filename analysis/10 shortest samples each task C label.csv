@@ -1,0 +1,111 @@
+label_vector,rewire_id,text,label_sexist,label_category,split
+1.1 threats of harm,sexism2022_english-7329,I'd love to fucking kick her ass,sexist,"1. threats, plans to harm and incitement",train
+1.1 threats of harm,sexism2022_english-18782,No poppy? You deserve an acid attack.,sexist,"1. threats, plans to harm and incitement",train
+1.1 threats of harm,sexism2022_english-13254,This woman needs a rope around her neck,sexist,"1. threats, plans to harm and incitement",train
+1.1 threats of harm,sexism2022_english-3313,I would kill your mother to get a shot at you.,sexist,"1. threats, plans to harm and incitement",train
+1.1 threats of harm,sexism2022_english-9066,Stupid bitch.. I would’ve slapped tf out of her,sexist,"1. threats, plans to harm and incitement",train
+1.1 threats of harm,sexism2022_english-13389,I roll her up and bowl her down an alley of land mines,sexist,"1. threats, plans to harm and incitement",train
+1.1 threats of harm,sexism2022_english-8777,Bitch waited for her Christmas gifts first 🤛🏼 you gon die,sexist,"1. threats, plans to harm and incitement",dev
+1.1 threats of harm,sexism2022_english-17052,I cope with it like I'm imagining punching her in the face.,sexist,"1. threats, plans to harm and incitement",test
+1.1 threats of harm,sexism2022_english-14596,"""It's not the same goys. Groping women is my comedy shtick""",sexist,"1. threats, plans to harm and incitement",test
+1.1 threats of harm,sexism2022_english-2441,"LOL, I hope she shows up so I can slap her around some more.",sexist,"1. threats, plans to harm and incitement",train
+1.2 incitement and encouragement of harm,sexism2022_english-12574,Hang her.,sexist,"1. threats, plans to harm and incitement",train
+1.2 incitement and encouragement of harm,sexism2022_english-15154,Lock her UP!!!!,sexist,"1. threats, plans to harm and incitement",train
+1.2 incitement and encouragement of harm,sexism2022_english-16830,lock her ass up,sexist,"1. threats, plans to harm and incitement",train
+1.2 incitement and encouragement of harm,sexism2022_english-4988,Piss on her face,sexist,"1. threats, plans to harm and incitement",train
+1.2 incitement and encouragement of harm,sexism2022_english-17304,Hang her publicly.,sexist,"1. threats, plans to harm and incitement",train
+1.2 incitement and encouragement of harm,sexism2022_english-15180,Fucking shoot her.,sexist,"1. threats, plans to harm and incitement",dev
+1.2 incitement and encouragement of harm,sexism2022_english-13688,Wire her jaw shut...,sexist,"1. threats, plans to harm and incitement",train
+1.2 incitement and encouragement of harm,sexism2022_english-7266,Kick her in the cunt!,sexist,"1. threats, plans to harm and incitement",test
+1.2 incitement and encouragement of harm,sexism2022_english-11496,I hope she gets raped,sexist,"1. threats, plans to harm and incitement",test
+1.2 incitement and encouragement of harm,sexism2022_english-10215,Raping women is cool.,sexist,"1. threats, plans to harm and incitement",train
+2.1 descriptive attacks,sexism2022_english-11738,All women are racist.,sexist,2. derogation,dev
+2.1 descriptive attacks,sexism2022_english-12867,All women are children,sexist,2. derogation,test
+2.1 descriptive attacks,sexism2022_english-14043,They are all sluts bud,sexist,2. derogation,train
+2.1 descriptive attacks,sexism2022_english-3163,reeeeee wimminz are ivel,sexist,2. derogation,test
+2.1 descriptive attacks,sexism2022_english-19866,Women hate vulnerable men,sexist,2. derogation,train
+2.1 descriptive attacks,sexism2022_english-3668,Israeli women fuck donkeys,sexist,2. derogation,train
+2.1 descriptive attacks,sexism2022_english-10821,Classic toxic white females,sexist,2. derogation,train
+2.1 descriptive attacks,sexism2022_english-19605,"Ahh, no. Girls get jealous.",sexist,2. derogation,train
+2.1 descriptive attacks,sexism2022_english-6430,"Yeh, women are creepy indeed",sexist,2. derogation,dev
+2.1 descriptive attacks,sexism2022_english-16587,Lol women can't do push ups...,sexist,2. derogation,dev
+2.2 aggressive and emotive attacks,sexism2022_english-1069,Hoochie mama,sexist,2. derogation,test
+2.2 aggressive and emotive attacks,sexism2022_english-12626,I hate women.,sexist,2. derogation,train
+2.2 aggressive and emotive attacks,sexism2022_english-7490,Shut it women,sexist,2. derogation,test
+2.2 aggressive and emotive attacks,sexism2022_english-2296,"Witch, she is😲",sexist,2. derogation,train
+2.2 aggressive and emotive attacks,sexism2022_english-18005,women are evil,sexist,2. derogation,train
+2.2 aggressive and emotive attacks,sexism2022_english-13016,Yes. Ban thots.,sexist,2. derogation,dev
+2.2 aggressive and emotive attacks,sexism2022_english-17835,girls have cooties,sexist,2. derogation,train
+2.2 aggressive and emotive attacks,sexism2022_english-1852,I dislike females.,sexist,2. derogation,train
+2.2 aggressive and emotive attacks,sexism2022_english-10234,fuckin nigger witch,sexist,2. derogation,train
+2.2 aggressive and emotive attacks,sexism2022_english-3695,lucifer is a female,sexist,2. derogation,train
+2.3 dehumanising attacks & overt sexual objectification,sexism2022_english-19589,Unfuckable women hate life.,sexist,2. derogation,train
+2.3 dehumanising attacks & overt sexual objectification,sexism2022_english-6866,Chad is every foids soulmate,sexist,2. derogation,dev
+2.3 dehumanising attacks & overt sexual objectification,sexism2022_english-1108,ugly chicks A pussy is a pussy.,sexist,2. derogation,train
+2.3 dehumanising attacks & overt sexual objectification,sexism2022_english-16752,Ask her what her vagina size is.,sexist,2. derogation,train
+2.3 dehumanising attacks & overt sexual objectification,sexism2022_english-11140,Pigs are better than women!! LOL!,sexist,2. derogation,train
+2.3 dehumanising attacks & overt sexual objectification,sexism2022_english-11957,sex with escort=/=sex with a girl,sexist,2. derogation,train
+2.3 dehumanising attacks & overt sexual objectification,sexism2022_english-17571,Now THAT is what I call a she-demon!,sexist,2. derogation,train
+2.3 dehumanising attacks & overt sexual objectification,sexism2022_english-2517,I use women like Kleenex. Blow and throw.,sexist,2. derogation,dev
+2.3 dehumanising attacks & overt sexual objectification,sexism2022_english-19824,Excellent idea. Military wives are trash.,sexist,2. derogation,test
+2.3 dehumanising attacks & overt sexual objectification,sexism2022_english-9736,"Technically, the women are also cat food.",sexist,2. derogation,dev
+"3.1 casual use of gendered slurs, profanities, and insults",sexism2022_english-11201,dis bitch.,sexist,3. animosity,train
+"3.1 casual use of gendered slurs, profanities, and insults",sexism2022_english-15519,Worthless bitch,sexist,3. animosity,train
+"3.1 casual use of gendered slurs, profanities, and insults",sexism2022_english-19180,Comb over cunt!,sexist,3. animosity,train
+"3.1 casual use of gendered slurs, profanities, and insults",sexism2022_english-13596,PhD’s in thotism,sexist,3. animosity,train
+"3.1 casual use of gendered slurs, profanities, and insults",sexism2022_english-8283,Is she a tranny?,sexist,3. animosity,train
+"3.1 casual use of gendered slurs, profanities, and insults",sexism2022_english-9152,Naaa! What cunt?,sexist,3. animosity,test
+"3.1 casual use of gendered slurs, profanities, and insults",sexism2022_english-5599,Karma's a bitch!,sexist,3. animosity,test
+"3.1 casual use of gendered slurs, profanities, and insults",sexism2022_english-959,Pimps need thots?,sexist,3. animosity,test
+"3.1 casual use of gendered slurs, profanities, and insults",sexism2022_english-5925,no thots allowed.,sexist,3. animosity,test
+"3.1 casual use of gendered slurs, profanities, and insults",sexism2022_english-8427,"keep talking, hag",sexist,3. animosity,test
+3.2 immutable gender differences and gender stereotypes,sexism2022_english-5008,So ...typical woman?,sexist,3. animosity,train
+3.2 immutable gender differences and gender stereotypes,sexism2022_english-18167,Black women are easy,sexist,3. animosity,train
+3.2 immutable gender differences and gender stereotypes,sexism2022_english-10861,typical female nature,sexist,3. animosity,train
+3.2 immutable gender differences and gender stereotypes,sexism2022_english-16502,A man makes the table.,sexist,3. animosity,train
+3.2 immutable gender differences and gender stereotypes,sexism2022_english-12406,rebuke her female nature,sexist,3. animosity,train
+3.2 immutable gender differences and gender stereotypes,sexism2022_english-9538,Yea. Most trans women hate men.,sexist,3. animosity,train
+3.2 immutable gender differences and gender stereotypes,sexism2022_english-2013,Long term thinking is man's job.,sexist,3. animosity,train
+3.2 immutable gender differences and gender stereotypes,sexism2022_english-471,Women are never happy believe me,sexist,3. animosity,train
+3.2 immutable gender differences and gender stereotypes,sexism2022_english-5833,Did you even kiss her you mangina?,sexist,3. animosity,dev
+3.2 immutable gender differences and gender stereotypes,sexism2022_english-7710,Women are addicted to social media.,sexist,3. animosity,test
+3.3 backhanded gendered compliments,sexism2022_english-8078,Strong women scare me.,sexist,3. animosity,test
+3.3 backhanded gendered compliments,sexism2022_english-8889,Most here would fuck her.,sexist,3. animosity,test
+3.3 backhanded gendered compliments,sexism2022_english-10938,Tha Brothas want dem PAWGs.,sexist,3. animosity,test
+3.3 backhanded gendered compliments,sexism2022_english-4639,"STEM ain't hard, wamans can do it too!",sexist,3. animosity,test
+3.3 backhanded gendered compliments,sexism2022_english-901,He'll fuck her too. Chads fuck anything,sexist,3. animosity,train
+3.3 backhanded gendered compliments,sexism2022_english-7291,Bet she'd be hot if she lost all the fat.,sexist,3. animosity,train
+3.3 backhanded gendered compliments,sexism2022_english-2818,"lol go for it dude, whamens can do no wrong",sexist,3. animosity,test
+3.3 backhanded gendered compliments,sexism2022_english-9687,"The hotter the woman, the hotter the hellfire..",sexist,3. animosity,train
+3.3 backhanded gendered compliments,sexism2022_english-19066,Now thats a female with normal body proportions.,sexist,3. animosity,train
+3.3 backhanded gendered compliments,sexism2022_english-12767,Thank you for all the women who are still sensible.,sexist,3. animosity,train
+3.4 condescending explanations or unwelcome advice,sexism2022_english-13447,Ladies.... never get tattoos.,sexist,3. animosity,train
+3.4 condescending explanations or unwelcome advice,sexism2022_english-6007,Also physical hard work renders women infertile.,sexist,3. animosity,train
+3.4 condescending explanations or unwelcome advice,sexism2022_english-16290,All women benefit from the actions of violent men.,sexist,3. animosity,train
+3.4 condescending explanations or unwelcome advice,sexism2022_english-7005,"Are your chromosomes XX? If so, you're 100% female.",sexist,3. animosity,test
+3.4 condescending explanations or unwelcome advice,sexism2022_english-10708,"u can ask wifey to play, but you have to be a good girl",sexist,3. animosity,train
+3.4 condescending explanations or unwelcome advice,sexism2022_english-5571,"A bullet doesn't give a shit about your gender, ladies.",sexist,3. animosity,train
+3.4 condescending explanations or unwelcome advice,sexism2022_english-19305,"If ya want women to carry, tell them to turn on c-span...",sexist,3. animosity,test
+3.4 condescending explanations or unwelcome advice,sexism2022_english-13828,That's why real women hate 2D women and want them desexualized :),sexist,3. animosity,train
+3.4 condescending explanations or unwelcome advice,sexism2022_english-19167,"little girl, youre really the boss--come back tomorrow and find out how",sexist,3. animosity,train
+3.4 condescending explanations or unwelcome advice,sexism2022_english-16085,"If she had settled down and had kids, she'd have been much happier: [URL]",sexist,3. animosity,train
+4.1 supporting mistreatment of individual women,sexism2022_english-10824,She disobeyed her male keeper. She knew the rules.,sexist,4. prejudiced discussions,train
+4.1 supporting mistreatment of individual women,sexism2022_english-10881,Not our fault she chose to date an abusive scumbag. 💀,sexist,4. prejudiced discussions,dev
+4.1 supporting mistreatment of individual women,sexism2022_english-10769,"I bet a doughnut, that she says James O'Keefe raped her.",sexist,4. prejudiced discussions,train
+4.1 supporting mistreatment of individual women,sexism2022_english-1096,Odin raped all those giant women and mortal women with their consent.,sexist,4. prejudiced discussions,test
+4.1 supporting mistreatment of individual women,sexism2022_english-14674,"I got ""metoo-ed"" holy shit lol. It's funny and also scarily possible.",sexist,4. prejudiced discussions,train
+4.1 supporting mistreatment of individual women,sexism2022_english-11915,[USER] At least you didn't accuse him of rape. Millennial woman would.,sexist,4. prejudiced discussions,train
+4.1 supporting mistreatment of individual women,sexism2022_english-16448,"If these women had better personalities, maybe they wouldn’t get raped.",sexist,4. prejudiced discussions,test
+4.1 supporting mistreatment of individual women,sexism2022_english-9026,All females must take collective responsibility for false rape accusations!,sexist,4. prejudiced discussions,test
+4.1 supporting mistreatment of individual women,sexism2022_english-10267,Or because she could just say she was raped and everybody would believe her.,sexist,4. prejudiced discussions,train
+4.1 supporting mistreatment of individual women,sexism2022_english-4238,Schrödingers sexual assault = When girls get approached from behind in a club,sexist,4. prejudiced discussions,train
+4.2 supporting systemic discrimination against women as a group,sexism2022_english-5827,We ban females,sexist,4. prejudiced discussions,test
+4.2 supporting systemic discrimination against women as a group,sexism2022_english-10252,Fuck women privilege,sexist,4. prejudiced discussions,train
+4.2 supporting systemic discrimination against women as a group,sexism2022_english-3333,Take women's rights away.,sexist,4. prejudiced discussions,train
+4.2 supporting systemic discrimination against women as a group,sexism2022_english-17212,until she divorce rapes him.,sexist,4. prejudiced discussions,train
+4.2 supporting systemic discrimination against women as a group,sexism2022_english-11227,women's suffrage was a mistake,sexist,4. prejudiced discussions,train
+4.2 supporting systemic discrimination against women as a group,sexism2022_english-2034,"First and foremost, fire all women.",sexist,4. prejudiced discussions,train
+4.2 supporting systemic discrimination against women as a group,sexism2022_english-16219,Don't pay attention to what women say.,sexist,4. prejudiced discussions,test
+4.2 supporting systemic discrimination against women as a group,sexism2022_english-8735,She got her equal rights... And lefts 😂,sexist,4. prejudiced discussions,train
+4.2 supporting systemic discrimination against women as a group,sexism2022_english-19085,This is why women should have no rights.,sexist,4. prejudiced discussions,dev
+4.2 supporting systemic discrimination against women as a group,sexism2022_english-10350,To female Bishops stop making fun of religion.,sexist,4. prejudiced discussions,test
