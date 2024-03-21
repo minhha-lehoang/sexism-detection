@@ -1,0 +1,29 @@
+level,,1,1,2,2,2,2,2,3_1,3_1,3_1,3_1,3_2,3_2,3_2,3_2,3_2,3_3,3_3,3_3,3_3,3_3,3_3,3_4,3_4,3_4,3_4
+pred_labels,,not sexist,sexist,"1. threats, plans to harm and incitement",2. derogation,3. animosity,4. prejudiced discussions,not sexist,1.1 threats of harm,1.2 incitement and encouragement of harm,not sexist,other,2.1 descriptive attacks,2.2 aggressive and emotive attacks,2.3 dehumanising attacks & overt sexual objectification,not sexist,other,"3.1 casual use of gendered slurs, profanities, and insults",3.2 immutable gender differences and gender stereotypes,3.3 backhanded gendered compliments,3.4 condescending explanations or unwelcome advice,not sexist,other,4.1 supporting mistreatment of individual women,4.2 supporting systemic discrimination against women as a group,not sexist,other
+level,pred_labels,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,not sexist,3134,0,23,16,83,47,2965,17,16,3064,37,17,3,29,3030,55,14,78,18,35,2965,24,37,30,3022,45
+1,sexist,0,866,75,386,340,64,1,21,74,0,771,261,240,60,1,304,225,174,24,39,1,403,40,61,1,764
+2,"1. threats, plans to harm and incitement",23,75,98,0,0,0,0,30,68,0,0,0,16,11,17,54,6,0,1,0,17,74,8,0,19,71
+2,2. derogation,16,386,0,402,0,0,0,1,8,6,387,189,172,41,0,0,36,53,8,8,0,297,9,7,7,379
+2,3. animosity,83,340,0,0,423,0,0,1,1,67,354,57,51,22,36,257,196,172,25,28,1,1,1,17,47,358
+2,4. prejudiced discussions,47,64,0,0,0,111,0,0,11,34,66,29,2,1,31,48,0,6,0,22,29,54,48,62,1,0
+2,not sexist,2965,1,0,0,0,0,2966,6,2,2957,1,3,2,14,2947,0,1,21,8,16,2919,1,11,5,2949,1
+3_1,1.1 threats of harm,17,21,30,1,1,0,6,38,0,0,0,0,2,9,12,15,5,0,1,0,13,19,2,0,15,21
+3_1,1.2 incitement and encouragement of harm,16,74,68,8,1,11,2,0,90,0,0,0,21,6,14,49,3,0,0,1,12,74,19,1,11,59
+3_1,not sexist,3064,0,0,6,67,34,2957,0,0,3064,0,9,3,15,3002,35,10,66,15,28,2940,5,28,23,2991,22
+3_1,other,37,771,0,387,354,66,1,0,0,0,808,269,217,59,3,260,221,186,26,45,1,329,28,67,6,707
+3_2,2.1 descriptive attacks,17,261,0,189,57,29,3,0,0,9,269,278,0,0,0,0,5,97,2,26,0,148,16,28,8,226
+3_2,2.2 aggressive and emotive attacks,3,240,16,172,51,2,2,2,21,3,217,0,243,0,0,0,84,0,0,0,0,159,6,0,2,235
+3_2,2.3 dehumanising attacks & overt sexual objectification,29,60,11,41,22,1,14,9,6,15,59,0,0,89,0,0,9,10,17,5,12,36,3,0,19,67
+3_2,not sexist,3030,1,17,0,36,31,2947,12,14,3002,3,0,0,0,3031,0,4,41,11,21,2950,4,31,15,2976,9
+3_2,other,55,304,54,0,257,48,0,15,49,35,260,0,0,0,0,359,137,104,12,22,4,80,21,48,18,272
+3_3,"3.1 casual use of gendered slurs, profanities, and insults",14,225,6,36,196,0,1,5,3,10,221,5,84,9,4,137,239,0,0,0,0,0,0,0,12,227
+3_3,3.2 immutable gender differences and gender stereotypes,78,174,0,53,172,6,21,0,0,66,186,97,0,10,41,104,0,252,0,0,0,0,0,23,51,178
+3_3,3.3 backhanded gendered compliments,18,24,1,8,25,0,8,1,0,15,26,2,0,17,11,12,0,0,42,0,0,0,0,0,10,32
+3_3,3.4 condescending explanations or unwelcome advice,35,39,0,8,28,22,16,0,1,28,45,26,0,5,21,22,0,0,0,74,0,0,11,14,20,29
+3_3,not sexist,2965,1,17,0,1,29,2919,13,12,2940,1,0,0,12,2950,4,0,0,0,0,2966,0,25,17,2923,1
+3_3,other,24,403,74,297,1,54,1,19,74,5,329,148,159,36,4,80,0,0,0,0,0,427,41,37,7,342
+3_4,4.1 supporting mistreatment of individual women,37,40,8,9,1,48,11,2,19,28,28,16,6,3,31,21,0,0,0,11,25,41,77,0,0,0
+3_4,4.2 supporting systemic discrimination against women as a group,30,61,0,7,17,62,5,0,1,23,67,28,0,0,15,48,0,23,0,14,17,37,0,91,0,0
+3_4,not sexist,3022,1,19,7,47,1,2949,15,11,2991,6,8,2,19,2976,18,12,51,10,20,2923,7,0,0,3023,0
+3_4,other,45,764,71,379,358,0,1,21,59,22,707,226,235,67,9,272,227,178,32,29,1,342,0,0,0,809
