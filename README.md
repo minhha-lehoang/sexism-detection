@@ -1,8 +1,8 @@
-## Multi-task Learning for Sexism Detection on Tweets
+## Multi-task Learning for Sexism Detection on Social Media
 
 ### Overview
 
-This repository contains the code and data for the project "Multi-task Learning for Sexism Detection on Tweets". The project explores the use of multi-task learning to improve the performance of sexism detection models on Twitter data.
+This repository contains the code and data for the project "Multi-task Learning for Sexism Detection on Social Media". The project explores the use of multi-task learning to improve the performance of sexism detection models on social posts data.
 
 ### Data
 
@@ -11,6 +11,8 @@ The data used in this project is the [EDOS dataset](https://github.com/rewire-on
 ### Model
 
 The model used in this project is a multi-task convolutional neural network (CNN) with BERT-based text embedding. The model is trained on the EDOS dataset using a custom hierarchical loss workflow.
+
+![MultiTask_CNN_Model_bertweet-base_6](https://github.com/minhha-lehoang/sexism-detection/assets/40814521/f3f16bc7-fb59-4486-9dbc-0b1b78cf79d2)
 
 
 ### Data Description
